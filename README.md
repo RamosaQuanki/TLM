@@ -38,6 +38,9 @@ Mutual_key_Example_Three,
 Mutual_key_Example_Four)
 
 - Example of using "line_from" and "line_to":
+
 line_from = 2
+
 line_to = 3
+
 (their value means a line from variables "phrase_i" or "phrase_name" will be generated between line 2 and line 3 (in text file))
