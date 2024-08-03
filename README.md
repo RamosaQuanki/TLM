@@ -15,7 +15,7 @@ I have no idea how to explain variables without examples, but I think this way i
 
 
 
-Example of using "range_from" and "range_to":
+- Example of using "range_from" and "range_to":
 
 range_from = 1
 
