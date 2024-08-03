@@ -24,7 +24,7 @@ range_to = 21
 
 
 
-Example of using "range_list" and "range_list_finder":
+- Example of using "range_list" and "range_list_finder":
 
 range_list = "Example_One, Example_Two, Example_Three, Example_Four".split(', ')
 
@@ -38,7 +38,7 @@ Mutual_key_Example_Two
 Mutual_key_Example_Three
 Mutual_key_Example_Four)
 
-Example of using "line_from" and "line_to":
+- Example of using "line_from" and "line_to":
 line_from = 2
 line_to = 3
 (their value means a line from variables "phrase_i" or "phrase_name" will be generated between line 2 and line 3 (in text file))
