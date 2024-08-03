@@ -14,13 +14,16 @@ If you want to educate how this tool works, then read tutorial lessons.
 I have no idea how to explain variables without examples, but I think this way is better to understand
 
 Example of using "range_from" and "range_to":
+
 range_from = 1
 range_to = 21
 (Their value means: "from 1 to 20" or on python it's "for i in range(1, 21)")
 
 Example of using "range_list" and "range_list_finder":
+
 range_list = "Example_One, Example_Two, Example_Three, Example_Four".split(', ')
 range_list_finder = "Mutual_key_{name}"
+
 (In this example range_list contains 4 names, they are also splitted by .split() (you can set another split, if you want))
 (In this example range_list_finder using mutual name to find key phrases in text file, I added {name} to range_list_finder to use 4 find key phrases with range_list, it means, range_list_finder contains phrases:
 Mutual_key_Example_One
