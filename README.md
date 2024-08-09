@@ -1,6 +1,4 @@
 # TLM-Tool
 This is "Text Lines Modifier Tool".
 
-To use this tool, you need to have small knowledge in Python language, but I can explain how these 4 modules work and which variables you need to use, while creating auto-scripts, I didn't release this tool, but these modules are used in my first project "RS SDM Tool" (from my repository "Rolling-Sky-Cheating-Legends").
-
-If you want to know how to understand this tool, then link is here: (Tutorial on developing right now)
+To use this tool, you need to have small knowledge in Python language, this tool works with lines in text files, this program can edit them, multipy add them (if these lines already exists, then this program won't add them, Mai() and Mas() works smart, be careful), download this program from Releases to read more info about this tool!
